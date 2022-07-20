@@ -1,0 +1,8 @@
+name = "NNLayers"
+uuid = "702e41df-f7f6-4ca9-8f83-19f48ae63fe1"
+authors = ["dpmerrell <davidpmerrell@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ChainRules = "082447d4-558c-5d27-93f4-14fc19e9eca2"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
